@@ -1,0 +1,1 @@
+D:\Data\C#\My_Files_Git\Tetris\Tetris\TetrisConsole\Shapes\bin\Debug\Shapes.exe.config
